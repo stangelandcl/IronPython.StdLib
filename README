@@ -12,3 +12,4 @@ run from that directory
 creates IronPython.StdLib.dll in that directory.
 
 Currently version 2.7.4
+License files copied from IronPython distribution
